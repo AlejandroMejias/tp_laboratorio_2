@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Calculadora_AlejandroMejias",
+    "\\Calculadora_AlejandroMejias\\MiCalculadora"
   ],
+  "SelectedNode": "\\Calculadora_AlejandroMejias\\MiCalculadora\\FormCalculadora.cs",
   "PreviewInSolutionExplorer": false
 }
