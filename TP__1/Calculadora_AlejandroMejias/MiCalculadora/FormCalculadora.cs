@@ -130,10 +130,7 @@ namespace MiCalculadora
                     case DialogResult.No:
                         e.Cancel = true;
                         break;
-                    default:
-                        break;
                 }
         }
-
     }
 }
